@@ -1,5 +1,6 @@
 # TapCountApk - A 2D Tapping Game
 
+## Screenshots
 ![image](https://github.com/manjit-hub/TapCountApk/assets/119831030/d2c576be-8e4a-46d4-9255-d36e615fbd84) ![image](https://github.com/manjit-hub/TapCountApk/assets/119831030/c394fc18-d31c-441b-a8b6-520ec027d2d5)
 ![image](https://github.com/manjit-hub/TapCountApk/assets/119831030/b4af993e-720d-46a6-9b61-71c2fb80bc12) ![image](https://github.com/manjit-hub/TapCountApk/assets/119831030/8ba43793-4260-4953-982c-e69218d8b136)
 
