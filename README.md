@@ -25,7 +25,7 @@
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/TapCountApk.git
+   git clone https://github.com/manjit-hub/TapCountApk.git
    ```
 
 2. Open the project in Unity 2021 or a compatible version.
